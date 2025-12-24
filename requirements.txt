@@ -1,0 +1,14 @@
+pyttsx3
+vosk
+pyaudio
+pvporcupine
+flask
+requests
+python-dotenv
+keyring
+spotipy
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+python-kasa
+schedule
